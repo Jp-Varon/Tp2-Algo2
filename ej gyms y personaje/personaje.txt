@@ -1,0 +1,10 @@
+E;juan pablo
+P;nidoking;63;40;50
+P;buttrefree;34;32;63
+P;jolteon;20;60;20
+P;kingler;42;36;63
+P;charizard;63;63;63
+P;dragonite;63;49;63
+P;pikachu;30;21;41
+P;metapod;10;10;10
+P;dratini;30;40;50

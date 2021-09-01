@@ -1,0 +1,9 @@
+G;gimnacio agua;2;2
+L;Misty
+P;starmie;22;22;22
+P;staryu;15;15;15
+E;nadador Luis
+P;housea;5;5;5
+P;shellder;10;10;10
+E;dominguera Diana
+P;goldeen;12;12;12
